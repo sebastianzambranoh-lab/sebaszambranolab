@@ -1,0 +1,13 @@
+fecha,vendedor,producto,cantidad,precio_unitario
+2026-07-03,Ana,Resma papel,10,18000
+2026-07-08,Luis,Tóner,2,240000
+2026-07-15,Ana,Carpetas,30,3500
+2026-07-21,Marta,Silla oficina,1,520000
+2026-08-02,Luis,Resma papel,25,18000
+2026-08-11,Marta,Tóner,3,240000
+2026-08-19,Ana,Escritorio,1,890000
+2026-08-27,Luis,Carpetas,50,3500
+2026-09-04,Marta,Resma papel,15,18000
+2026-09-12,Ana,Tóner,1,240000
+2026-09-18,Luis,Silla oficina,2,520000
+2026-09-29,Marta,Carpetas,40,3500

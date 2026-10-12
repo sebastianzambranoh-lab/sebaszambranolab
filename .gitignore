@@ -1,0 +1,4 @@
+__pycache__/
+*_resumen.csv
+02_archivos/*.csv
+03_automatizaciones/prueba/
